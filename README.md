@@ -1,1 +1,1 @@
-https://your-github-account.github.io/rsschool-cv/cv
+https://dazik.github.io/rsschool-cv/cv
