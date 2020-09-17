@@ -1,0 +1,43 @@
+/*!
+ CSS file for CV of Akbarov Saidazizkhon
+ 2020
+ */
+ html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+  }
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 10spx;
+  margin-bottom: 10px;
+    }
+ol,
+ul,
+dl {
+  margin-top: 10px;
+  margin-bottom: 1rem;
+    }
+body {
+    color: #339;
+    background-color: #ddd;
+}
+header {
+    max-width: 900px;
+    margin: 0px;
+}
+.container {
+    display: block;
+    margin: auto;
+    max-width: 1024px;
+    border-color: #000;
+    border-width: 1px;
+}
+.avatar {
+    margin: -60px 0px 0px 900px;
+}
+.email {
+    font-size: 0.85em;
+}
+main {
+    margin: -40px auto;
+}
